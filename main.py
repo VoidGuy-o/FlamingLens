@@ -14,4 +14,4 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 
-    asdasdasdфф1
+Fuck this shitT
